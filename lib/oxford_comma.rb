@@ -6,4 +6,6 @@ def oxford_comma(array)
     
 elsif 2 < array.length
 
+array[]
+
 end
