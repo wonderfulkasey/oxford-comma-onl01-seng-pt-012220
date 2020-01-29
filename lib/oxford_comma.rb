@@ -6,6 +6,6 @@ def oxford_comma(array)
     
 elsif 2 < array.length
 
-array[]
+array[-1].insert 
 
 end
